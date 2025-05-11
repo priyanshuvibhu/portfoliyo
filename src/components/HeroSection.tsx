@@ -134,7 +134,7 @@ const HeroSection = () => {
           <div className="relative">
             <div className="w-56 h-56 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/30 animate-float">
               <img 
-                src="public/images/hero.jpg" 
+                src="/images/hero.jpg" 
                 alt="Priyanshu Sharma"
                 className="w-full h-full object-cover"
               />
